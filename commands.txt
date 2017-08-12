@@ -1,0 +1,1000 @@
+ 1136  ls
+ 1137  cd projectname/
+ 1138  ls
+ 1139  python3 manage.py runserver 0.0.0.0:8001
+ 1140  cd /home/
+ 1141  ls
+ 1142  cd daminda/
+ 1143  ls
+ 1144  cd FlaskApp/
+ 1145  ls
+ 1146  python app.py 
+ 1147  sudo bash
+ 1148  /opt/lampp/lampp start
+ 1149  netstat -ltnp 
+ 1150  netstat -ltnp | grep :80
+ 1151  kill -9 1138
+ 1152  /opt/lampp/lampp start
+ 1153  subo bash
+ 1154  sudo bash
+ 1155  /opt/lampp/lampp start
+ 1156  netstat -ltnp | grep :80
+ 1157  kill -9 1167
+ 1158  /opt/lampp/lampp restart
+ 1159  cd /opt/lampp/htdocs/
+ 1160  chmod -R 777 New_Techno/
+ 1161  chmod -R 777 clubs/
+ 1162  ls
+ 1163  cd clubs
+ 1164  ls
+ 1165  cd login/
+ 1166  ls
+ 1167  /opt/lampp/lampp start
+ 1168  netstat -ltnp | grep :80
+ 1169  kill -9 1167
+ 1170  /opt/lampp/lampp start
+ 1171  cd /opt/lampp/htdocs/
+ 1172  chmod -R 777 1353/
+ 1173  SUDO BASH
+ 1174  sudo bash
+ 1175  netstat -ltnp | grep :80
+ 1176  chmod -R 777 1151
+ 1177  kill -9 1151
+ 1178  /opt/lampp/lampp start
+ 1179  sudo bash
+ 1180  netstat -ltnp | grep :80
+ 1181  kill -9 1137
+ 1182  /opt/lampp/lampp start
+ 1183  django-admin.py startproject helloworld_project
+ 1184  django-admin startproject helloworld_project
+ 1185  sudo apt install tree
+ 1186  tree
+ 1187  tree helloworld_project/
+ 1188  django-admin startproject helloworld_project .
+ 1189  tree helloworld_project/
+ 1190  ls
+ 1191  pwd
+ 1192  ls
+ 1193  ld
+ 1194  ls
+ 1195  cd Documents/
+ 1196  ls
+ 1197  cd Link\ to\ Research
+ 1198  ls
+ 1199  mkdir django
+ 1200  cd Tutorials
+ 1201  mkdir Tutorials
+ 1202  cd django/
+ 1203  mkdir Tutorials
+ 1204  cd Tutorials/
+ 1205  ls
+ 1206  django-admin startproject helloworld_project .
+ 1207  tree
+ 1208  tree helloworld_project/
+ 1209  python manage.py runserver
+ 1210  ls
+ 1211  python manage.py runserver 0.0.0.0:8001
+ 1212  nano manage.py 
+ 1213  cd /
+ 1214  ls
+ 1215  cd home/daminda/
+ 1216  ls
+ 1217  cd helloworld_project/
+ 1218  ls
+ 1219  python manage.py runserver
+ 1220  nano settings.py 
+ 1221  cd helloworld_project/
+ 1222  ls
+ 1223  cd ..
+ 1224  python manage.py migrate
+ 1225  django-admin --version
+ 1226  python manage.py migrate
+ 1227  python manage.py syncdb
+ 1228  export PYTHONPATH=/usr/local/lib/python2.7/site-packages
+ 1229  python manage.py syncdb
+ 1230  python manage.py migrate
+ 1231  cd ..
+ 1232  ls
+ 1233  django-admin startproject hello
+ 1234  cd hello
+ 1235  tree
+ 1236  cd hello/
+ 1237  nano settings.py 
+ 1238  sudo afw allow 8001
+ 1239  sudo ufw allow 8001
+ 1240  cd ..
+ 1241  ls
+ 1242  python manage.py runserver 0.0.0.0:8001
+ 1243  python manage.py runserver 
+ 1244  cd ..
+ 1245  ls
+ 1246  python manage.py runserver 
+ 1247  cd helloworld_project/
+ 1248  ls
+ 1249  cd ..
+ 1250  ls
+ 1251  rm helloworld_project/
+ 1252  rmdir helloworld_project/
+ 1253  rmdir -r helloworld_project/
+ 1254  rmdir -R helloworld_project/
+ 1255  sudo which python
+ 1256  rmdir -rf helloworld_project/
+ 1257  rm -rf helloworld_project/
+ 1258  ls
+ 1259  cd hello/
+ 1260  ls
+ 1261  python manage.py runserver 
+ 1262  cd ..
+ 1263  cd PythonApp/
+ 1264  ls
+ 1265  cd templates/
+ 1266  ls
+ 1267  cd ..
+ 1268  django-admin startproject projectname
+ 1269  cd projectname/
+ 1270  ls
+ 1271  python manage.py runserver 
+ 1272  source python2.7/bin/activate
+ 1273  python manage.py migrate
+ 1274  sudo python manage.py migrate
+ 1275  cd ..
+ 1276  ls
+ 1277  cd Documents/
+ 1278  ls
+ 1279  cd Link\ to\ Research
+ 1280  cd django/Tutorials/
+ 1281  LS
+ 1282  ls
+ 1283  sudo python manage.py migrate
+ 1284  sudo python manage.py runserver
+ 1285  tree
+ 1286  ls
+ 1287  sudo python manage.py startapp greetings
+ 1288  ls
+ 1289  tree
+ 1290  sudo add-apt-repository ppa:webupd8team/atom
+ 1291  sudo apt update; sudo apt install atom
+ 1292  ls
+ 1293  cd helloworld_project/
+ 1294  ls
+ 1295  cd ..
+ 1296  ls
+ 1297  touch greetings/urls.py
+ 1298  sudo python manage.py runserver
+ 1299  /opt/lampp/lampp start
+ 1300  netstat -ltnp | grep :80
+ 1301  kill -9 1160
+ 1302  /opt/lampp/lampp start
+ 1303  cd /opt/lampp/
+ 1304  chmod -R 777 htdocs/SWSS/
+ 1305  sudo bash
+ 1306  netstat -ltnp | grep :80
+ 1307  kill -9 1159
+ 1308  /opt/lampp/lampp start
+ 1309  python
+ 1310  /opt/lampp/lampp start
+ 1311  netstat -ltnp | grep :80
+ 1312  kill -9 6483
+ 1313  /opt/lampp/lampp start
+ 1314  ifconfig
+ 1315  cd /opt/lampp/htdocs/
+ 1316  chmod -R 777 *
+ 1317  /opt/lampp/lampp start
+ 1318  ifconfig
+ 1319  chmod -R 777 *
+ 1320  sudo bash
+ 1321  netstat -ltnp | grep :80
+ 1322  kill -9 1153
+ 1323  /opt/lampp/lampp start
+ 1324  python
+ 1325  git config --list
+ 1326  ls
+ 1327  pwd
+ 1328  cd GITPro/
+ 1329  ls
+ 1330  mkdir Databases
+ 1331  sudo mkdir Databases
+ 1332  ls
+ 1333  sudo bash
+ 1334  echo "# Databases" >> README.md
+ 1335  ls
+ 1336  cp README.md Databases/
+ 1337  cd Databases/
+ 1338  ls
+ 1339  git init
+ 1340  git add README.md 
+ 1341  git commit -m "Start"
+ 1342  git status
+ 1343  git remote add origin https://github.com/dherath10/Databases.git
+ 1344  git push -u origin master 
+ 1345  cp /opt/lampp/htdocs/Learn/Learn\ \(5\).sql  ./
+ 1346  LS
+ 1347  ls
+ 1348  git status
+ 1349  git add Learn\ \(5\).sql 
+ 1350  git status
+ 1351  git commit -m "Add first time"
+ 1352  git status
+ 1353  git remote add origin https://github.com/dherath10/Databases.git
+ 1354  git push -u origin master 
+ 1355  git log
+ 1356  netstat -ltnp | grep :80
+ 1357  kill -9 1173
+ 1358  /opt/lampp/lampp start
+ 1359  ls
+ 1360  git help
+ 1361  cd /opt/lampp/htdocs/
+ 1362  cd Learn/
+ 1363  ls
+ 1364  git init
+ 1365  ls al
+ 1366  ls -al
+ 1367  git status
+ 1368  git add README.md
+ 1369  git add view/
+ 1370  git status
+ 1371  git checkout -b task1
+ 1372  git checkout task1
+ 1373  git branch
+ 1374  git -b task2
+ 1375  git checkout -b task2
+ 1376  git checkout master
+ 1377  cd view/
+ 1378  git checkout master
+ 1379  cd ..
+ 1380  git commit -m "First Change"
+ 1381  remote add origin https://github.com/dherath10/Learn.git
+ 1382  git remote add origin https://github.com/dherath10/Learn.git
+ 1383  git push -u origin master
+ 1384  git push -u origin 
+ 1385  git push -u origin task2 
+ 1386  git checkout master
+ 1387  git checkout task1
+ 1388  git checkout task2
+ 1389  git checkout task1
+ 1390  git checkout -b master
+ 1391  git branch
+ 1392  git checkout master
+ 1393  git checkout -b task1
+ 1394  ls
+ 1395  git add Admin/
+ 1396  git commit -m "update"
+ 1397  git remote add origin https://github.com/dherath10/Learn.git
+ 1398  git remote add master https://github.com/dherath10/Learn.git
+ 1399  git push -u master 
+ 1400  git checkout master
+ 1401  git remote add master https://github.com/dherath10/Learn.git
+ 1402  git remote add task2 https://github.com/dherath10/Learn.git
+ 1403  git push -u origin task2
+ 1404  git status
+ 1405  git add CSS/
+ 1406  git commit -m "update"
+ 1407  git remote add task2 https://github.com/dherath10/Learn.git
+ 1408  git remote add task1 https://github.com/dherath10/Learn.git
+ 1409  git push -u origin task1
+ 1410  git status
+ 1411  git merge task2
+ 1412  git merge task1
+ 1413  git merge master
+ 1414  git remote add master https://github.com/dherath10/Learn.git
+ 1415  git push -u origin task1
+ 1416  cd ..
+ 1417  git rm --cached -r Learn/
+ 1418  cd Learn/
+ 1419  ls -al
+ 1420  git rm --cached -r Learn/
+ 1421  git rm --cached -r view/
+ 1422  git rm --cached -r Admin/
+ 1423  cd Admin/
+ 1424  ls
+ 1425  cd ..
+ 1426  git rm --cached -r .git/
+ 1427  rm -R .git/
+ 1428  ls -al
+ 1429  chmod 777 *
+ 1430  ls -l
+ 1431  cd Admin/
+ 1432  ls
+ 1433  cd model/
+ 1434  ls -l
+ 1435  cd ..
+ 1436  chmod -R 777 *
+ 1437  ls -l
+ 1438  cd Admin/
+ 1439  ls
+ 1440  netstat -ltnp | grep :80
+ 1441  kill -9 1157
+ 1442  /opt/lampp/lampp start
+ 1443  ls
+ 1444  cd GITPro/
+ 1445  LS
+ 1446  ls
+ 1447  cd Databases/
+ 1448  ls
+ 1449  cd ..
+ 1450  chmod -R 776 GITPro/
+ 1451  cd GITPro/
+ 1452  LS
+ 1453  ls
+ 1454  ls -l
+ 1455  cd Databases/
+ 1456  ls
+ 1457  cp /opt/lampp/htdocs/OSINT/sat.sql ./
+ 1458  ls
+ 1459  git add sat.sql 
+ 1460  git status
+ 1461  git commit -m "spider tool"
+ 1462  git status
+ 1463  git commit -a
+ 1464  git status
+ 1465  git push -u origin
+ 1466  cp /opt/lampp/htdocs/Hotel/Hotel\ \(1\).sql ./
+ 1467  git status
+ 1468  git commit -a Hotel\ \(1\).sql 
+ 1469  git commit -a 
+ 1470  git add Hotel\ \(1\).sql 
+ 1471  git status
+ 1472  git commit -a Hotel\ \(1\).sql 
+ 1473  git commit -a 
+ 1474  git status
+ 1475  git push -u origin 
+ 1476  cp /opt/lampp/htdocs/clubs/
+ 1477  cp /opt/lampp/htdocs/db/* ./
+ 1478  ls
+ 1479  git add 
+ 1480  git add clubncafe_db.sql 
+ 1481  git add *
+ 1482  git status 
+ 1483  git commit -m "Commit"
+ 1484  git push -u origin 
+ 1485  cd ..
+ 1486  mkdir LearnVE
+ 1487  LS
+ 1488  ls
+ 1489  cd LearnVE/
+ 1490  cp -r /opt/lampp/htdocs/Learn/ ./
+ 1491  ls
+ 1492  git init 
+ 1493  git add README.md
+ 1494  nano README.md
+ 1495  git add README.md
+ 1496  git add Learn/
+ 1497  git commit -a 
+ 1498  git status
+ 1499  git remote add origin https://github.com/dherath10/LearnVE.git
+ 1500  git push -u origin master
+ 1501  pip install scrapy
+ 1502  scrapy shell
+ 1503  scrapy startproject ourfirstscraper www.reddit.com/r/gameofthrones/
+ 1504  ls
+ 1505  cd ..
+ 1506  scrapy startproject ourfirstscraper www.reddit.com/r/gameofthrones/
+ 1507  ls
+ 1508  cd Documents/
+ 1509  ls
+ 1510  cd Link\ to\ Research
+ 1511  cd Web\ Scraping/
+ 1512  LS
+ 1513  ls
+ 1514  mkdir test
+ 1515  cd test/
+ 1516  scrapy startproject ourfirstscraper www.reddit.com/r/gameofthrones/
+ 1517  ls
+ 1518  cd www.reddit.com/
+ 1519  ls
+ 1520  cd r/
+ 1521  ls
+ 1522  cd gameofthrones/
+ 1523  ls
+ 1524  cd ..
+ 1525  ls
+ 1526  scrapy genspider redditbot www.reddit.com/r/gameofthrones/
+ 1527  ls
+ 1528  cd www.reddit.com/
+ 1529  ls
+ 1530  clear
+ 1531  sudo bash
+ 1532  cd Documents/Link\ to\ Research
+ 1533  cd Web 
+ 1534  cd Web\ Scraping/
+ 1535  LS
+ 1536  ls
+ 1537  cd test/
+ 1538  ls
+ 1539  nano redditbot.py 
+ 1540  scrapy crawl redditbot
+ 1541  cd www.reddit.com/
+ 1542  ls
+ 1543  cd r/
+ 1544  ls
+ 1545  cd gameofthrones/
+ 1546  ls
+ 1547  cd ourfirstscraper/
+ 1548  ls
+ 1549  clear
+ 1550  ls
+ 1551  cd ..
+ 1552  ls
+ 1553  cd ourfirstscraper/
+ 1554  ls
+ 1555  cd spiders/
+ 1556  ls
+ 1557  scrapy genspider redditbot www.reddit.com/r/gameofthrones/
+ 1558  ls
+ 1559  nano redditbot.py 
+ 1560  scrapy crawl redditbot
+ 1561  cd ..
+ 1562  ls
+ 1563  nano settings.py
+ 1564  scrapy crawl redditbot
+ 1565  ls
+ 1566  cat reddit.csv 
+ 1567  nano reddit.csv 
+ 1568  clear
+ 1569  ls
+ 1570  nano settings.py
+ 1571  scrapy crawl redditbot
+ 1572  nano reddit.csv 
+ 1573  ls
+ 1574  cd spiders/
+ 1575  ls
+ 1576  scrapy crawl redditbot
+ 1577  ls
+ 1578  cat reddit
+ 1579  cat reddit.csv 
+ 1580  scrapy genspider redditbot www.reddit.com/r/gameofthrones/
+ 1581  ls
+ 1582  nano redditbot.py
+ 1583  scrapy crawl redditbot
+ 1584  cd ..
+ 1585  ls
+ 1586  nano settings.py
+ 1587  cd spiders/
+ 1588  scrapy crawl redditbot
+ 1589  ls
+ 1590  nano reddit1.csv 
+ 1591  response.css("time::attr(title)").extract()
+ 1592  cd ..
+ 1593  ls
+ 1594  scrapy startproject craigslist_sample
+ 1595  ls
+ 1596  cd craigslist_sample/
+ 1597  ls
+ 1598  cd craigslist_sample/
+ 1599  ls
+ 1600  nano items.py 
+ 1601  ls
+ 1602  cd spiders/
+ 1603  ls
+ 1604  nano test.py
+ 1605  cd ..
+ 1606  ls
+ 1607  cd ..
+ 1608  ls
+ 1609  scrapy crawl craig
+ 1610  nano craigslist_sample/spiders/
+ 1611  nano craigslist_sample/spiders/test.py
+ 1612  gedit craigslist_sample/spiders/test.py
+ 1613  scrapy crawl craig -o items.csv -t csv
+ 1614  ls
+ 1615  gedit items.csv 
+ 1616  ls
+ 1617  rm -rf *
+ 1618  ls
+ 1619  scrapy crawl craig -o items.csv -t csv
+ 1620  cd ..
+ 1621  ls
+ 1622  rm -rf craigslist_sample/
+ 1623  ls
+ 1624  scrapy startproject craigslist_sample
+ 1625  ls
+ 1626  cd craigslist_sample/
+ 1627  ls
+ 1628  cd craigslist_sample/
+ 1629  ls
+ 1630  nano items.py 
+ 1631  cd spiders/
+ 1632  ls
+ 1633  gedit test.py
+ 1634  cd ..
+ 1635  ls
+ 1636  cd ..
+ 1637  ls
+ 1638  scrapy crawl craig
+ 1639  cd craigslist_sample/spiders/gedit test.py
+ 1640  ls
+ 1641  cd craigslist_sample/
+ 1642  ls
+ 1643  cd spiders/
+ 1644  ls
+ 1645  gedit test.py
+ 1646  cd ..
+ 1647  ls
+ 1648  scrapy crawl craig -o items.csv -t csv
+ 1649  ls
+ 1650  ls -l
+ 1651  sudo
+ 1652  netstat -ltnp | grep :80
+ 1653  kill -9 1191
+ 1654  /opt/lampp/lampp start
+ 1655  ifconfig
+ 1656  clear
+ 1657  cd pwd
+ 1658  PWD
+ 1659  pwd
+ 1660  cd Documents/
+ 1661  ls
+ 1662  cd Link\ to\ Research
+ 1663  ls
+ 1664  mkdir GitBasic
+ 1665  cd GitBasic/
+ 1666  ls
+ 1667  nano README.md
+ 1668  nano commands.txt
+ 1669  git add README.md
+ 1670  git commit -m "First Upadte"
+ 1671  ls
+ 1672  git add README.md 
+ 1673  cd ..
+ 1674  cp -r GitBasic/ /home/daminda/
+ 1675  cd /home/daminda/GitBasic/
+ 1676  cd ..
+ 1677  cd Documents/Link\ to\ Research/GitBasic/
+ 1678  git init
+ 1679  ls
+ 1680  ls -a
+ 1681  git add README.md 
+ 1682  git commit -m "Branch Des"
+ 1683  git remote add origin https://github.com/dherath10/LearningGit.git
+ 1684  nano commands.txt 
+ 1685  git remote add origin https://github.com/dherath10/LearningGit.git
+ 1686  git push -u origin master
+ 1687  nano commands.txt 
+ 1688  git push -u origin master
+ 1689  git add commands.txt 
+ 1690  git commit -m "Upadate Commands"
+ 1691  git remote add origin https://github.com/dherath10/LearningGit.git
+ 1692  git push -u origin master
+ 1693  git status
+ 1694  nano commands.txt 
+ 1695  clear
+ 1696  nano commands.txt 
+ 1697  git clone -b branch1 ./
+ 1698  git fetch origin
+ 1699  git clone https://github.com/Piusha/gitbasic.git
+ 1700  ls
+ 1701  git fetch origin
+ 1702  git checkout
+ 1703  git pull origin
+ 1704  git branch
+ 1705  git clone -b branch1 https://github.com/Piusha/gitbasic.git
+ 1706  git branch 
+ 1707  ls
+ 1708  cd gitbasic/
+ 1709  ls
+ 1710  git branch
+ 1711  cd..
+ 1712  cd ..
+ 1713  ls
+ 1714  git clone -b branch1 https://github.com/Piusha/gitbasic.git ./
+ 1715  cd ..
+ 1716  mkdir new
+ 1717  cd new/
+ 1718  git clone -b branch1 https://github.com/Piusha/gitbasic.git ./
+ 1719  ls
+ 1720  git branch 
+ 1721  cd ..
+ 1722  cd GitBasic/
+ 1723  ls
+ 1724  git push commands.txt
+ 1725  cd gitbasic/
+ 1726  fetch origin
+ 1727  git fetch origin
+ 1728  git checkout d1
+ 1729  ls
+ 1730  git pull origin d1
+ 1731  ls
+ 1732  git branch
+ 1733  cd ..
+ 1734  nano commands.txt 
+ 1735  ls
+ 1736  git status
+ 1737  git add gitbasic/
+ 1738  git status
+ 1739  git commit -m "Update"
+ 1740  git checkout -b d1
+ 1741  git branch
+ 1742  git checkout -b d2
+ 1743  git branch 
+ 1744  git checkout master
+ 1745  git branch 
+ 1746  git push origin d1
+ 1747  git push origin d2
+ 1748  git branch -d d1
+ 1749  git brach
+ 1750  git branch
+ 1751  git push origin --delete d1
+ 1752  ls
+ 1753  nano commands.txt 
+ 1754  git commit -m "2nd update"
+ 1755  nano commands.txt 
+ 1756  git commit -m "2nd update"
+ 1757  nano commands.txt 
+ 1758  git sta
+ 1759  git status 
+ 1760  git push -u origin
+ 1761  git status
+ 1762  ls
+ 1763  nano commands.txt 
+ 1764  git add commands.txt 
+ 1765  git status
+ 1766  git commit -m "2nd update"
+ 1767  git push -u origin 
+ 1768  cd gitbasic/
+ 1769  get branch
+ 1770  git branch
+ 1771  git fetch origin  d1
+ 1772  git fetch origin 
+ 1773  git fetch d1
+ 1774  git branch
+ 1775  ls
+ 1776  git checkout master
+ 1777  git branch
+ 1778  git fetch origin d1
+ 1779  cd ..
+ 1780  nano mywork.txt
+ 1781  git add mywork.txt 
+ 1782  git origin -v
+ 1783  git commit -m "aa"
+ 1784  cd ..
+ 1785  git clone https://github.com/Piusha/gitbasic.git ./
+ 1786  mkdir new
+ 1787  mkdir new1
+ 1788  cd new1/
+ 1789  git clone https://github.com/Piusha/gitbasic.git ./
+ 1790  ls
+ 1791  git fetch origin 
+ 1792  git checkout -b da
+ 1793  git pull origin da
+ 1794  git add da
+ 1795  nano da.txt
+ 1796  git add da.txt 
+ 1797  git commit -m "Up"
+ 1798  git pull origin 
+ 1799  git push origin 
+ 1800  git push -u origin 
+ 1801  git checkout -b daminda
+ 1802  git pull origin
+ 1803  git pull origin daminda
+ 1804  git pull origin https://github.com/Piusha/gitbasic.git
+ 1805  cd ..
+ 1806  cd GitBasic/
+ 1807  ls
+ 1808  git checkout -b daminda
+ 1809  nano da.txt
+ 1810  git add da.txt 
+ 1811  git commit -m "Up"
+ 1812  git status
+ 1813  git push -u origin https://github.com/Piusha/gitbasic.git
+ 1814  git branch
+ 1815  git checkout master
+ 1816  git push https://github.com/Piusha/gitbasic.git daminda
+ 1817  ls
+ 1818  git checkout -b da
+ 1819  git push orgin
+ 1820  git push -u orgin
+ 1821  git push -u origin
+ 1822  git branch
+ 1823  git checkout d2 
+ 1824  git push -u origin da
+ 1825  ls
+ 1826  cd ..
+ 1827  ls
+ 1828  cd GitBasic/
+ 1829  ls
+ 1830  cd gitbasic/
+ 1831  ls
+ 1832  git checkout -m daminda
+ 1833  git checkout -b dami
+ 1834  cd ..
+ 1835  cd new1/
+ 1836  ls
+ 1837  git checkout -b dami
+ 1838  git checkout master
+ 1839  git push -u origin dami
+ 1840  git remote -v
+ 1841  sudo apt-get install virtualbox 
+ 1842  apt-get update
+ 1843  apt-cache show vagrant
+ 1844  sudo apt-get install vagrant
+ 1845  cd ..
+ 1846  mkdir repo
+ 1847  cd repo/
+ 1848  nano READEME.md
+ 1849  get init
+ 1850  git init
+ 1851  git add READEME.md 
+ 1852  git commit -m "First"
+ 1853  git checkout -b dev
+ 1854  git checkout master
+ 1855  git checkout -b qa
+ 1856  git checkout master
+ 1857  git checkout -b uat
+ 1858  git remote add origin https://github.com/damindaucsc/repo.git
+ 1859  git push -u origin master
+ 1860  cd ..
+ 1861  mkdir rest
+ 1862  https://github.com/damindaucsc/repo/invitations
+ 1863  git clone https://github.com/damindaucsc/repo/invitations
+ 1864  ls
+ 1865  cd repo/
+ 1866  git checkout -b daminda master
+ 1867  git checkout master
+ 1868  git status
+ 1869  git add README.md
+ 1870  nano READEME.md
+ 1871  git add README.md
+ 1872  ls
+ 1873  ls -al
+ 1874  git status
+ 1875  git branch
+ 1876  git push origin daminda
+ 1877  sudo bash
+ 1878  ls -l stop.sh 
+ 1879  ./stop.sh 
+ 1880  ./stop.sh 
+ 1881  ./stop.sh 
+ 1882  netstat -tunap | grep LISTEN
+ 1883  netstat -ptan | grep LIST | egrep :80
+ 1884  kill -9 1235
+ 1885  /opt/lampp/lampp start
+ 1886  sudo bash
+ 1887  netstat -ptan | grep LIST | egrep :80
+ 1888  kill -9 1231
+ 1889  /opt/lampp/lampp start
+ 1890  DF
+ 1891  df
+ 1892  chmod 777 /media/daminda/A1
+ 1893  ls -l /media/daminda/A1/
+ 1894  ls /media/daminda/A1/
+ 1895  ls -l
+ 1896  cd /media/daminda/
+ 1897  ls
+ 1898  ls -l
+ 1899  chmod 777 /media/daminda/A1
+ 1900  ls -l
+ 1901  sudo bash
+ 1902  netstat -ptan | grep LIST | egrep :80
+ 1903  kill -9 1256
+ 1904  /opt/lampp/lampp start
+ 1905  netstat -ptan | grep LIST | egrep :80
+ 1906  kill -9 1220
+ 1907  /opt/lampp/lampp start
+ 1908  ./python
+ 1909  sudo bash
+ 1910  netstat -ptan | grep LIST | egrep :80
+ 1911  kill -9 1226
+ 1912  /opt/lampp/lampp start
+ 1913  netstat -ptan | grep LIST | egrep :80
+ 1914  /opt/lampp/lampp start
+ 1915  netstat -ptan | grep LIST | egrep :80
+ 1916  kill -9 1214
+ 1917  /opt/lampp/lampp start
+ 1918  df -h
+ 1919  cd /opt/lampp/htdocs/
+ 1920  ls
+ 1921  cd H
+ 1922  LS
+ 1923  ls
+ 1924  cd ..
+ 1925  chmod -R 777 H
+ 1926  ls -l
+ 1927  cd H
+ 1928  ls -l
+ 1929  cd ..
+ 1930  chmod -R 777 Ho
+ 1931  cd Ho
+ 1932  ls -l
+ 1933  cd images/
+ 1934  ls -l
+ 1935  ifconfig
+ 1936  df -h
+ 1937  ls -l
+ 1938  df -h
+ 1939  cd /media/daminda/9C5372098CD6016F
+ 1940  ls
+ 1941  ls -l
+ 1942  cd ..
+ 1943  cd /media/daminda/A88408D78408AA40
+ 1944  LS
+ 1945  ls
+ 1946  cd /dev/sda5
+ 1947  ls -al
+ 1948  df -h
+ 1949  cd /home/daminda/
+ 1950  ls
+ 1951  cd Desktop/
+ 1952  ls
+ 1953  cd new/
+ 1954  ls
+ 1955  df -h
+ 1956  cd /media/daminda/
+ 1957  ls
+ 1958  cd 9C5372098CD6016F
+ 1959  LS
+ 1960  ls
+ 1961  cd ..
+ 1962  cd 9C5372098CD6016F
+ 1963  ls
+ 1964  cd ..
+ 1965  cd 9C5372098CD6016F
+ 1966  ls
+ 1967  cd /boot/
+ 1968  ls
+ 1969  mkdir Jil
+ 1970  chmod -R 777 Jil/
+ 1971  ls -ls
+ 1972  cd /home/daminda/
+ 1973  chmod -R 777 Jil/
+ 1974  ls -l jil
+ 1975  ifcongig
+ 1976  ifconfig
+ 1977  clear
+ 1978  cd /opt/lampp/htdocs/
+ 1979  ls
+ 1980  vagrant
+ 1981  vagrant init bento/ubuntu-16.04
+ 1982  vagrant up
+ 1983  sudo bash
+ 1984  cd /
+ 1985  ls
+ 1986  ll
+ 1987  ls -al
+ 1988  git init
+ 1989  git fetch https://github.com/Piusha/esoft-awdb4.git codes
+ 1990  git fetch https://github.com/Piusha/esoft-awdb4.git 
+ 1991  git fetch https://github.com/Piusha/esoft-awdb4.git HEAD
+ 1992  git fetch https://github.com/Piusha/esoft-awdb4.git branch
+ 1993  git fetch https://github.com/Piusha/esoft-awdb4.git provision
+ 1994  sudo apt-get update
+ 1995  sudo apt-get install build-essential tcl
+ 1996  cd /tmp/
+ 1997  ;s
+ 1998  ls
+ 1999  curl -O http://download.redis.io/redis-stable.tar.gz
+ 2000  ls
+ 2001  ls -l ./ >> /home/daminda/a.txt
+ 2002  cd /home/daminda/
+ 2003  cat a.txt 
+ 2004  cd GitBasic/
+ 2005  ls
+ 2006  nano LinuxBasic.txt
+ 2007  cat LinuxBasic.txt 
+ 2008  git status
+ 2009  ls -
+ 2010  ls -l
+ 2011  git init
+ 2012  git add LinuxBasic.txt 
+ 2013  clear
+ 2014  ll >> file1.txt
+ 2015  cat file1.txt 
+ 2016  git status
+ 2017  454
+ 2018  454 >> error
+ 2019  454 2> error
+ 2020  cat error 
+ 2021  ls
+ 2022  git commit -m "Com1"
+ 2023  git status
+ 2024  ls
+ 2025  git add LinuxBasic.txt 
+ 2026  git status
+ 2027  git inint
+ 2028* 
+ 2029  git add LinuxBasic.txt 
+ 2030  git status
+ 2031  git commit -m "status"
+ 2032  git commit -m "status" LinuxBasic.txt 
+ 2033  git remote add origin https://github.com/dherath10/LearningGit.git
+ 2034  git push origin master
+ 2035  git remote add origin https://github.com/dherath10/LearningGit.git.
+ 2036  git remote add origin https://github.com/dherath10/LearningGit.git
+ 2037  git remote add origin https://github.com/dherath10/phpcode.git
+ 2038  git remote add origin 
+ 2039  git remote add origin https://github.com/dherath10/phpcode.git
+ 2040  git push origin master
+ 2041  git push origin master LinuxBasic.txt
+ 2042  git remote add origin https://github.com/dherath10/phpcode.git
+ 2043  ls
+ 2044  clear
+ 2045  ls
+ 2046  ls -al
+ 2047  cd ..
+ 2048  ls
+ 2049  cd Gith
+ 2050  mkdir Gith
+ 2051  ls
+ 2052  cd Gith
+ 2053  ls
+ 2054  nano file1.txt
+ 2055  git init
+ 2056  git add file1.txt 
+ 2057  git status
+ 2058  git commit -m "Com1"
+ 2059  git remote add origin https://github.com/dherath10/phpcode.git
+ 2060  git push origin master 
+ 2061  git remote add origin https://github.com/dherath10/Linux.git
+ 2062  git push origin master 
+ 2063  cd ..
+ 2064  mkdir Linux
+ 2065  ls
+ 2066  cd Linux/
+ 2067  ls
+ 2068  cd /
+ 2069  ls
+ 2070  clear
+ 2071  mkdir web
+ 2072  cd web/
+ 2073  mkdir Items
+ 2074  mkdir contents
+ 2075  mkdir images
+ 2076  ls
+ 2077  cd Items/
+ 2078  mkdir 1
+ 2079  mkdir 2
+ 2080  mkdir 23
+ 2081  mkdir 3
+ 2082  rm -r 23
+ 2083  ls
+ 2084  cd 1
+ 2085  nano 1.txt
+ 2086  nano 2.txt
+ 2087  nano 3.txt
+ 2088  cat 1.txt 
+ 2089  cat 2.txt 
+ 2090  mv 2.txt ../2
+ 2091  mv 3.txt ../3
+ 2092  ls
+ 2093  cd /home/daminda/Downloads/
+ 2094  ls
+ 2095  cd /opt/lampp/htdocs/TBS/internal/images/
+ 2096  ls
+ 2097  cp images.jpg /web/Items/1/
+ 2098  cp images.jpg /web/Items/1/1.jpg
+ 2099  cp backup.jpg /web/Items/2/2.jpg
+ 2100  cp backup.jpg /web/Items/3/3.jpg
+ 2101  cd /web/
+ 2102  ls
+ 2103  cd Items/
+ 2104  ls
+ 2105  cd 1
+ 2106  ls
+ 2107  cd ..
+ 2108  ls
+ 2109  cd ..
+ 2110  cd contents/
+ 2111  ls
+ 2112  cp ../Items/1/1.txt ./
+ 2113  ls
+ 2114  cp ../Items/2/2.txt ./
+ 2115* cp ../
+ 2116  ls
+ 2117  cd ..
+ 2118  mkdir im
+ 2119  cd im/
+ 2120  ls
+ 2121  wget http://s3.india.com/wp-content/uploads/2016/10/v.jpg
+ 2122  ls
+ 2123  mv v.jpg /web/Items/1/1.jpg
+ 2124  wget http://i.ndtvimg.com/i/2017-01/india-and-england-toss_806x605_51484812614.jpg
+ 2125  mv india-and-england-toss_806x605_51484812614.jpg /web/Items/2/2.jpg 
+ 2126  wget http://images.indianexpress.com/2015/10/ms-dhoni-pti_m31.jpg
+ 2127  mv ms-dhoni-pti_m31.jpg /web/Items/3/3.jpg
+ 2128  cd /web/images/
+ 2129  cp ../Items/1/1.jpg ./
+ 2130  cp ../Items/2/2.jpg ./
+ 2131  cp ../Items/3/3.jpg ./
+ 2132  ls
+ 2133  cd ..
+ 2134  history 
+ 2135  history >> commands.txt
