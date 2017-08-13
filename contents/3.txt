@@ -1,0 +1,7 @@
+Setup Ubuntu 16.04 to be used with Vagrant and Virtualbox
+
+Prepare Vagrant box with Ubuntu 16.04
+
+We will use official box "ubuntu/xenial64" and modify it to work with Vagrant.
+
+Vagrantfile

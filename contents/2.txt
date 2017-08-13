@@ -1,0 +1,2 @@
+Create a Bare Repository
+Let us initialize a new repository by using init command followed by --bare option. It initializes the repository without a working directory. By convention, the bare repository must be named as .git.
