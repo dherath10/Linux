@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#Comparision Operators
 read -p "Enter a Number " num
 
 if [ $num -eq 1 ]
