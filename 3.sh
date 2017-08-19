@@ -12,7 +12,7 @@ echo ""
 echo "***************************"
 echo "Date :"
 echo $(date +"%d/%m/%y")
-
+echo ""
 echo "Full Name :" $fname $lname
 echo "Date :" $dob
 echo "Address :" $add
