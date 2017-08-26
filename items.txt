@@ -1,0 +1,4 @@
+2:ww:dd:ddddd
+4:rrr:uuu:12
+ff:ggg:ggg:12
+44:ee:rr:2

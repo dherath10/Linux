@@ -1,0 +1,18 @@
+#!/bin/bash
+clear
+echo $(date +"%d/%m/%y")
+echo "***********************************"
+read -p "UserID :" userID
+read -p "Password :" pass
+if [ $userID == $adminID ]
+then
+	status="Administrator"
+
+elif [ $userID == $managerID ]
+then
+	status="Manager"
+
+else
+	status="Anonymous"
+
+f
